@@ -1,70 +1,72 @@
-<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=GODWIN+STANES+G;Aspiring+Data+Scientist+%7C+AI+Engineer;Building+Real-World+AI+Projects;FastAPI+%7C+Streamlit+%7C+PyTorch" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=GODWIN+STANES+G;Data+Scientist+%7C+AI+Engineer;Building+Real-World+AI+Projects;FastAPI+%7C+PyTorch+%7C+Streamlit" />
 </p>
 
 ---
 
-# 👨‍💻 About Me  
+# 👨‍💻 About Me
 
-🎓 BE (ECE) Student (2023–2027)  
-📊 Focused on Data Science, AI & Real-world Applications  
-⚡ Build production-style projects using ML + APIs + UI  
+🎓 BE (ECE) | 2023–2027
+📊 Aspiring **Data Scientist & AI Engineer**
+⚡ I build **real-world AI systems**, not just models
 
-🌐 Portfolio: http://godwinstanes.netlify.app  
+🚀 Focus:
 
----
+* Machine Learning & Deep Learning
+* Data Analysis & Visualization
+* Full Stack (FastAPI + Frontend)
 
-# 🧠 Tech Arsenal  
-
-### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)  
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)  
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)  
-
-### 📊 Data & AI  
-![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)  
-![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy)  
-![Machine Learning](https://img.shields.io/badge/ML-000?style=for-the-badge)  
-
-### ⚙️ Tools  
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)  
-![Streamlit](https://img.shields.io/badge/Streamlit-000?style=for-the-badge&logo=streamlit)  
-![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)  
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)  
+🌐 Portfolio: http://godwinstanes.netlify.app
 
 ---
 
-# 🚀 Featured Projects  
-
-## 💸 Expense Tracker Dashboard  
-https://github.com/godwin-stanes/Expense-Tracker-Personal-Finance-Dashboard  
-
-✔ Full-stack system  
-✔ FastAPI + Streamlit  
-✔ Real-time analytics  
-
----
-
-## 🚗 AI ANPR System  
-https://github.com/godwin-stanes/AI_ANPR_PROJECT  
-
-✔ Computer Vision + OCR  
-✔ Real-time detection  
-
----
-
-## 🔢 Handwritten Digit Recognition  
-✔ PyTorch CNN  
-✔ Multi-digit support  
-
----
-
-# 📊 GitHub Analytics  
+# 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godwin-stanes&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godwin-stanes&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://skillicons.dev/icons?i=python,sql,js,html,css,fastapi,flask,git,github" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 💸 Expense Tracker Dashboard
+
+🔗 https://github.com/godwin-stanes/Expense-Tracker-Personal-Finance-Dashboard
+
+✔ Full-stack system using FastAPI + Streamlit
+✔ Real-time expense tracking & analytics
+✔ Clean dashboard UI
+
+---
+
+## 🚗 AI ANPR System
+
+🔗 https://github.com/godwin-stanes/AI_ANPR_PROJECT
+
+✔ Automatic Number Plate Recognition
+✔ Computer Vision + OCR + Deep Learning
+✔ Real-time detection pipeline
+
+---
+
+## 🔢 Handwritten Digit Recognition
+
+✔ PyTorch CNN model
+✔ Multi-digit recognition
+✔ Flask + Canvas UI
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=godwin-stanes&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godwin-stanes&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -73,29 +75,32 @@ https://github.com/godwin-stanes/AI_ANPR_PROJECT
 
 ---
 
-# 🐍 Contribution Snake  
+# 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/godwin-stanes/godwin-stanes/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/godwin-stanes/godwin-stanes/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-# 💼 Experience  
+# 💼 Experience
 
-Frontend Developer Intern — Leo Technology  
-Frontend Design Intern — Nextgen Technology  
+💻 Frontend Developer Intern — Leo Technology
+🌐 Frontend Design Intern — Nextgen Technology
 
----
-
-# 🌍 Connect  
-
-📧 dsgstanes@gmail.com  
-🔗 https://www.linkedin.com/in/godwinstanesg/  
-💻 https://github.com/godwin-stanes  
+✔ Built responsive web apps
+✔ Worked on backend integration & SEO
 
 ---
 
-# ⚡ Mindset  
+# 🌍 Connect
 
-“I build real-world AI solutions, not just projects.”
+📧 [dsgstanes@gmail.com](mailto:dsgstanes@gmail.com)
+🔗 https://www.linkedin.com/in/godwinstanesg/
+💻 https://github.com/godwin-stanes
+
+---
+
+# ⚡ Philosophy
+
+> “I don’t just build projects — I build systems that solve real-world problems using AI & data.”
